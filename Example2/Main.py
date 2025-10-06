@@ -67,13 +67,13 @@ Data_NumberCount = (Data_NumberCount / Data_NumberCount.sum()) * 100
 percent_series.head(10).sort_values().plot(kind="bar")
 
 ## Graph settings and Saving
-mp.title = "Top 10 most common Powerball numbers"
+mp.title("Top 10 most common Powerball numbers")
 mp.xlabel("Number")
 mp.xticks(rotation="horizontal")
 mp.ylabel("Percantage of total draws")
 mp.ylim(0,100)
-mp.tight_layout()
-mp.savefig("Top_common_Powerball_numbers.jpg",dpi = 300)
+
+mp.savefig("Top_common_Powerball_numbers.png",dpi = 300)
 
 
 ## Saving Cleaned Data format
