@@ -1,20 +1,8 @@
-# Washington State Electric Vehicle Population Data
+# Catalog of examples of my Data Analyst
 ___
 
-Dataset used in program: https://catalog.data.gov/dataset/electric-vehicle-population-data
-
-This program evaulets the data and formats in various common methods of Data Analyst, such as:
-
-# Console Output 
-- Total EV's registered in Washington State
-- Top 5 makes by count
-- Earliest Model Year
-- Newest Model Year
-- Top 10 EV Registrations by County
-- Average Electric Range For Top 5 Makes
-___
-
-# Files Created
-- Top 10 Counties by EV Registration : Bar Chart
-- Ev Registration's by Model Year : Line Chart
+Each folder includes:
+- Main python Program that does the analysis
+- External Charts and images made by the program
+- PDF Data Analysis Report of the Data
 ___
