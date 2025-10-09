@@ -17,4 +17,5 @@ ___
 # Files Created
 - Top 10 Counties by EV Registration : Bar Chart
 - Ev Registration's by Model Year : Line Chart
+- EV registration's in Washington : Tableua Dashboard
 ___
